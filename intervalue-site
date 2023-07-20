@@ -1,0 +1,1296 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="facebook-domain-verification" content="d5y43n1zrf1lky7a7r86yz3c3wyuoq" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="assets/favicon.ico">
+    <title>Intervalue</title>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WZVRBNV');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.min.css">
+
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="node_modules/animate.css/animate.min.css">
+
+    <!-- Fancybox CSS -->
+    <link rel="stylesheet" href="node_modules/@fancyapps/fancybox/dist/jquery.fancybox.min.css">
+
+    <!-- OWL carousel CSS -->
+    <link rel="stylesheet" href="node_modules/owl.carousel/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="node_modules/owl.carousel/dist/assets/owl.theme.default.min.css">
+
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="assets/css/style.min.css">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i&amp;subset=latin-ext" rel="stylesheet">
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '509461940088633');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=509461940088633&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5P5WBEEFZK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5P5WBEEFZK');
+</script>
+
+</head>
+<body>
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZVRBNV"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Preloader -->
+    <div class="preloader-container">
+        <div class="preloader-wrapper">
+            <div class="preloader-border"></div>
+            <div class="preloader-line-mask">
+                <div class="preloader-line"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navigation menu -->
+    <div class="navik-header header-shadow navik-mega-menu mega-menu-fullwidth">
+        <div class="container">
+            <div class="navik-header-container">
+
+                <!--Logo-->
+                <div class="logo" data-mobile-logo="assets/svg/upload/logo-dark.png" data-sticky-logo="assets/svg/upload/logo-dark.png">
+                    <a href="index.html"><img src="assets/svg/upload/logo-dark.png" alt="logo"/></a>
+                </div>
+
+                <!-- Burger menu -->
+                <div class="burger-menu">
+                    <div class="line-menu line-half first-line"></div>
+                    <div class="line-menu"></div>
+                    <div class="line-menu line-half last-line"></div>
+                </div>
+
+                <!--Navigation menu-->
+                <nav class="navik-menu menu-hover-4 menu-caret submenu-top-border submenu-scale">
+                    <ul>
+                        <li class="current-menu"><a href="index.html">Home</a></li>
+                        <li><a href="#">Institucional</a>
+                            <ul>
+                                <li><a href="quemsomos.html">Quem somos</a></li>
+                                <li><a href="anvisa.html">ANVISA</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="tradings.html">Trading Services</a>
+                            <ul>
+                                <li><a href="tradings.html">Trading Services</a></li>>
+                            </ul>
+                        </li>
+
+                        <li><a href="produtos.html">Produtos</a>
+                            <ul>
+                              <li><a href="interflexy.html">Interflexy</a></li>
+                              <li><a href="rmdas.html">RMDA-S</a></li>
+                              <li><a href="troipeel.html">Troipeel</a></li>
+                              <li><a href="cellcurin.html">Cellcurin</a></li>
+                              <li><a href="lashnails.html">Lash & Nails</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="https://intervalue.blog/">Notícias</a></li>
+
+                         <li><a href="contato.html">Contato</a>
+                            <ul>
+                                <li><a href="https://api.whatsapp.com/send?phone=554730838884" target="blank">Comercial</a></li>
+                                <li><a href="mailto:info@intervalue.com.br">RH</a></li>
+                <li><a href="mailto:marketing@intervalue.com.br">Marketing</a></li>
+                <li><a href="mailto:financeiro@intervalue.com.br">Financeiro</a></li>
+                            </ul>
+                        </li>
+
+                         <li><a href="index.html">PT</a></li>
+             <li><a href="en-index.html">EN</a></li>
+
+                    </ul>
+                </nav>
+
+            </div>
+        </div>
+    </div>
+
+
+<div id="cookieConsent">
+<b>Nós usamos cookies.</b> Eles são usados para aprimorar a sua experiência.<br>Ao fechar este banner e/ou continuar na página, você concorda com o uso de cookies em nosso website.</br><a href="lgpd.html" target="_blank">Saiba mais sobre nossa Política de Privacidade.</a><a class="cookieConsentOK">Ok</a>
+</div>
+
+
+    <!-- Banner slides -->
+    <div class="banner-slides-wrapper arrow-nav-overflow" data-dots="false" data-nav="true">
+
+        <div class="banner-slides-container owl-carousel owl-theme">
+
+                    <!-- Slide item -->
+            <div class="bg-image overflow-hidden" data-img-src="assets/images/upload/section-banner-slide-intervalue.jpg">
+                <div class="container-fluid d-flex flex-column p-0">
+                    <div class="row page-header-block-height align-items-center">
+                        <div class="col-12">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 offset-md-1 col-lg-6 offset-lg-6 text-center py-5">
+
+                                        <div class="px-xl-5 py-5 overflow-hidden">
+                                            <h1 class="display-2 font-weight-800 text-dark add-animate slide-animate" data-animated="fadeInRight">inovação</h1>
+                                            <div class="lead-sm font-weight-400 text-white pb-2 mb-5 add-animate slide-animate" data-animated="fadeInLeft"><b>Da alta tecnologia ao DNA do salmão. </b>Trazemos soluções inovadoras em saúde, estética e bem-estar que valorizam profissionais, procedimentos e resultados.</div>
+
+                                            <div class="add-animate slide-animate" data-animated="fadeInRight">
+                                                <a href="quemsomos.html" class="btn btn-lg btn-light mx-2 mb-md-0 ml-xl-0"><i class="fas fa-info-circle"></i>a marca</a>
+                                                <a href="produtos.html" class="btn btn-lg btn-dark mx-2 mb-md-0"><i class="fas fa-box-open"></i>produtos</a>
+                                            </div>
+                                        </div>
+
+                                        <div data-height="95px"></div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Slide item -->
+            <div class="bg-image overflow-hidden" data-img-src="assets/images/upload/section-banner-interflexy.jpg">
+                <div class="container-fluid d-flex flex-column p-0">
+                    <div class="row page-header-block-height align-items-center">
+
+                        <div class="col-12">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 offset-md-1 col-lg-6 offset-lg-6 text-center py-5">
+
+                                       <div class="px-xl-5 py-5 overflow-hidden">
+                                            <h1 class="display-2 font-weight-800 text-dark add-animate slide-animate" data-animated="fadeInRight">tecnologia</h1>
+                                            <div class="lead-sm font-weight-400 pb-2 mb-5 add-animate slide-animate" style="color:#22c0de" data-animated="fadeInLeft"><b>Interflexy.</b> A microcânula semiflexível que transforma o seu procedimento com muito mais segurança e qualidade. Tecnologia de ponta, literalmente.</div>
+
+                                            <div class="add-animate slide-animate" data-animated="fadeInRight">
+                                                <a href="interflexy.html" class="btn btn-lg btn-light mx-2 mb-md-0 ml-xl-0"><i class="fas fa-info-circle"></i>especificações</a>
+                                                <a href="https://api.whatsapp.com/send?phone=554730838884" target="blank" class="btn btn-lg btn-dark mx-2 mb-md-0"><i class="fas fa-box-open"></i>adquira</a>
+                                            </div>
+                                        </div>
+
+                                        <div data-height="95px"></div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+           <!-- Slide item -->
+            <div class="bg-image overflow-hidden" data-img-src="assets/images/upload/section-banner-slide-rmdas.jpg">
+                <div class="container-fluid d-flex flex-column p-0">
+                    <div class="row page-header-block-height align-items-center">
+
+                        <div class="col-12">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 offset-md-1 col-lg-6 offset-lg-6 text-center py-5">
+
+                                       <div class="px-xl-5 py-5 overflow-hidden">
+                                            <h1 class="display-2 font-weight-800 text-dark add-animate slide-animate" data-animated="fadeInRight">revolução</h1>
+                                            <div class="lead-sm font-weight-400 pb-2 mb-5 add-animate slide-animate" style="color:#22c0de" data-animated="fadeInLeft"><b>RMDA-S. </b>Um revolucionário composto que promove o rejuvenescimento com base no PDRN, um extrato retirado do DNA do salmão conhecido por regenerar a pele.</div>
+
+                                            <div class="add-animate slide-animate" data-animated="fadeInRight">
+                                                <a href="rmdas.html" class="btn btn-lg btn-light mx-2 mb-md-0 ml-xl-0"><i class="fas fa-info-circle"></i>especificações</a>
+                                                <a href="https://api.whatsapp.com/send?phone=5547997020147" target="blank" class="btn btn-lg btn-dark mx-2 mb-md-0"><i class="fas fa-box-open"></i>adquira</a>
+                                            </div>
+                                        </div>
+
+                                        <div data-height="95px"></div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+           <!-- Slide item -->
+            <div class="bg-image overflow-hidden" data-img-src="assets/images/upload/section-banner-slide-troipeel.jpg">
+                <div class="container-fluid d-flex flex-column p-0">
+                    <div class="row page-header-block-height align-items-center">
+
+                        <div class="col-12">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 offset-md-1 col-lg-6 offset-lg-6 text-center py-5">
+
+                                       <div class="px-xl-5 py-5 overflow-hidden">
+                                            <h1 class="display-2 font-weight-800 text-dark add-animate slide-animate" data-animated="fadeInRight">renovação</h1>
+                                            <div class="lead-sm font-weight-400 pb-2 mb-5 add-animate slide-animate" style="color:#22c0de" data-animated="fadeInLeft"><b>Troipeel. </b>Um peeling natural inovador que age como um microagulhamento na renovação da pele.</div>
+
+                                            <div class="add-animate slide-animate" data-animated="fadeInRight">
+                                                <a href="troipeel.html" class="btn btn-lg btn-light mx-2 mb-md-0 ml-xl-0"><i class="fas fa-info-circle"></i>especificações</a>
+                                                <a href="https://api.whatsapp.com/send?phone=5547997020147" target="blank" class="btn btn-lg btn-dark mx-2 mb-md-0"><i class="fas fa-box-open"></i>adquira</a>
+                                            </div>
+                                        </div>
+
+                                        <div data-height="95px"></div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+   <!-- Slide item -->
+            <div class="bg-image overflow-hidden" data-img-src="assets/images/upload/section-banner-cellcurin.jpg">
+                <div class="container-fluid d-flex flex-column p-0">
+                    <div class="row page-header-block-height align-items-center">
+
+                        <div class="col-12">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 offset-md-1 col-lg-6 offset-lg-6 text-center py-5">
+
+                                       <div class="px-xl-5 py-5 overflow-hidden">
+                                            <h1 class="display-2 font-weight-800 text-dark add-animate slide-animate" data-animated="fadeInRight">ciência</h1>
+                                            <div class="lead-sm font-weight-400 pb-2 mb-5 add-animate slide-animate" style="color:#22c0de" data-animated="fadeInLeft"><b>Cellcurin. </b>Uma abordagem inovadora no tratamento da alopecia androgênica, eflúvio telógeno e possíveis implicações da queda capilar. Não é milagre, é tecnologia.</div>
+
+                                            <div class="add-animate slide-animate" data-animated="fadeInRight">
+                                                <a href="cellcurin.html" class="btn btn-lg btn-light mx-2 mb-md-0 ml-xl-0"><i class="fas fa-info-circle"></i>especificações</a>
+                                                <a href="https://api.whatsapp.com/send?phone=5547997020147" target="blank" class="btn btn-lg btn-dark mx-2 mb-md-0"><i class="fas fa-box-open"></i>adquira</a>
+                                            </div>
+                                        </div>
+
+                                        <div data-height="95px"></div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <!-- Navigation -->
+        <div class="carousel-custom-nav carousel-nav-lg d-none d-lg-block">
+            <a class="carousel-control-prev" href="#" data-width="9%">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#" data-width="9%">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+
+    </div>
+
+
+
+
+
+    <!-- Content -->
+    <div class="main-content py-0">
+
+        <!-- Call to action section -->
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col z-index-1 mt-up100">
+
+                        <div data-height="12px"></div>
+
+                        <div class="bg-dark rounded-lg shadow-lg p-5 p-lg-4 px-xl-5">
+
+                            <div data-height="3px"></div>
+
+                            <div class="row align-items-center my-2">
+
+                                <div class="col-lg-3">
+                                    <div class="num-counter mb-4 mb-lg-0">
+                                        <h3 class="count-value count-run display-4 font-weight-700 text-center text-white mb-0">235</h3>
+                                        <div class="icon-info-3">
+                                            <div class="icon-title d-flex justify-content-center align-items-end pb-3 pb-lg-2">
+
+                                                <h6 class="font-weight-700 text-white mb-0">parcerias firmadas</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-5 col-xl-6">
+                                    <div class="text-center text-lg-left mb-5 mb-lg-0">
+
+                                        <h3 class="text-white font-weight-700">
+                                            Invista na valorização.
+                                        </h3>
+
+                                        <div class="text-white-50">
+                                            <div class="lead-sm">Traga a inovação para o seu procedimento.</div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-4 col-xl-3">
+                                    <div class="text-center">
+                                        <a href="https://api.whatsapp.com/send?phone=5547997020147" target="blank" class="btn btn-lg btn-primary btn-gray-shadow mb-0"><i class="fas fa-shopping-basket"></i>Compre agora</a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div data-height="3px"></div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <!-- Highlight section -->
+        <div class="section py-5">
+            <div class="container">
+                <div class="row align-items-center py-lg-3 my-5">
+
+                    <div class="col-lg-6 order-2 order-lg-1">
+                        <div class="pr-xl-5">
+
+                            <h5 class="font-weight-400">Buscando tecnologia, trazendo credibilidade</h5>
+
+                            <div data-height="3px"></div>
+
+                            <h2 class="h1 section-title-4 text-left font-weight-800 mb-4">
+                                Valorizamos a inovação
+                                <div class="title-divider-round"></div>
+                            </h2>
+
+                            <div class="lead-sm pt-2 mb-5">
+                               Acreditamos que o aprimoramento da tecnologia e a inovação é o que nos impulsiona a melhorar nosso dia-a-dia. É por isso que buscamos produtos que revolucionam o segmento médico e estético, promovendo a valorização dos nossos parceiros e o bem-estar e satisfação do público-final.</p>
+
+<p><b>Somos uma empresa importadora e exportadora certificada pela ANVISA com foco em soluções globais e inovadoras.</b> Temos o compromisso irrestrito com a qualidade e a inovação, prezando pela conformidade legal e ética que trazem aos nossos clientes e parceiros segurança e sucesso na negociação dos produtos que importamos, exportamos e comercializamos.</p>
+
+
+                            </div>
+
+                            <div class="row">
+
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 order-1 order-lg-2">
+                        <div class="text-center text-lg-right px-4 mt-3 mb-5 mb-lg-0">
+                            <img src="assets/images/upload/streaming-highlight-img-01.png" alt="image" class="img-fluid add-animate" data-animated="fadeIn">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <!-- Highlight section -->
+        <div class="section bg-light py-5">
+            <div class="container">
+                <div class="row align-items-center py-lg-3 my-5">
+
+                    <div class="col-lg-6">
+                        <div class="text-center text-lg-left px-4 mb-5 mb-lg-0">
+                            <img src="assets/images/upload/streaming-highlight-img-02.png" alt="image" class="img-fluid add-animate" data-animated="fadeIn">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="pl-xl-5">
+
+                            <h5 class="font-weight-400">Valorizamos seu negócio, valorizamos você</h5>
+
+                            <div data-height="3px"></div>
+
+                            <h2 class="h1 section-title-4 text-left font-weight-800 mb-4">
+                                Diferenciais Intervalue
+                                <div class="title-divider-round"></div>
+                            </h2>
+
+                            <div class="lead-sm pt-2 mb-5">
+                               <b>Trazer a Intervalue para o seu procedimento valoriza o seu negócio.</b> Nossos produtos são certificados, com procedência segura e embasados por pesquisas e profissionais que respaldam suas qualidades e funcionalidades. Trazemos para o mercado nacional tecnologias revolucionárias que são um <b>diferencial para profissionais</b> cujos clientes, cada vez mais exigentes, buscam soluções eficientes e tecnológicas, preocupados com a sustentabilidade e a saúde.
+                            </div>
+
+
+
+  <div class="row mb-5">
+                                        <div class="col-md-6">
+                                            <ul class="custom-list fa-ul mb-2 mb-md-0 ml-4">
+                                                <li class="pl-1"><span class="fa-li text-right"><i class="fas fa-check text-warning mr-2"></i></span>Empresa consolidada</li>
+                                                <li class="pl-1"><span class="fa-li text-right"><i class="fas fa-check text-warning mr-2"></i></span>Certificação ANVISA</li>
+                                                <li class="pl-1"><span class="fa-li text-right"><i class="fas fa-check text-warning mr-2"></i></span>Credibilidade reconhecida</li>
+                                                <li class="pl-1"><span class="fa-li text-right"><i class="fas fa-check text-warning mr-2"></i></span>Compra segura</li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <ul class="custom-list fa-ul mb-0 ml-4">
+                                                <li class="pl-1"><span class="fa-li text-right"><i class="fas fa-check text-warning mr-2"></i></span>Produtos inovadores</li>
+                                                <li class="pl-1"><span class="fa-li text-right"><i class="fas fa-check text-warning mr-2"></i></span>Alta qualidade</li>
+                                                <li class="pl-1"><span class="fa-li text-right"><i class="fas fa-check text-warning mr-2"></i></span>Suporte Intervalue</li>
+                                                <li class="pl-1"><span class="fa-li text-right"><i class="fas fa-check text-warning mr-2"></i></span>Logística eficiente</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <!-- Features section -->
+        <div class="section bg-image py-5" data-img-src="assets/images/upload/streaming-our-services-bg.jpg">
+            <div class="container">
+
+                <div class="row pt-3 my-5">
+                    <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+                        <div class="text-center">
+
+                            <h5 class="font-weight-400 text-white">conheça nossas</h5>
+
+                            <div data-height="3px"></div>
+
+                            <h2 class="h1 section-title-4 title-light-1 font-weight-800 mb-4">
+                                principais soluções
+                                <div class="title-divider-round"></div>
+                            </h2>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mb-5">
+
+                    <div class="col-md-6 col-lg-3">
+                        <div class="icon-info-4 text-center mb-5 mb-lg-4">
+                            <a class="icon-info-link" href="rmdas.html">
+                                <div class="icon-element mb-3">
+                                    <img src="assets/svg/upload/service-icon-rmdas.png" alt="icon" class="add-animate faster" data-animated="zoomIn" data-width="64px" data-height="64px">
+                                </div>
+                                <div class="icon-info-text text-white-75 pt-3">
+                                    <h5 class="font-weight-700 text-white mb-4">RMDA-S</h5>
+                                    <p>Rejuvenescedor com tecnologia proveniente do PDRN, composto extraído do DNA do salmão.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-3">
+                        <div class="icon-info-4 text-center mb-5 mb-lg-4">
+                            <a class="icon-info-link" href="troipeel.html">
+                                <div class="icon-element mb-3">
+                                    <img src="assets/svg/upload/service-icon-troipeel.png" alt="icon" class="add-animate faster" data-animated="zoomIn" data-width="64px" data-height="64px">
+                                </div>
+                                <div class="icon-info-text text-white-75 pt-3">
+                                    <h5 class="font-weight-700 text-white mb-4">Troipeel</h5>
+                                    <p>Peeling natural inovador que age como microagulhamento.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-3">
+                        <div class="icon-info-4 text-center mb-5 mb-lg-4">
+                            <a class="icon-info-link" href="cellcurin.html">
+                                <div class="icon-element mb-3">
+                                    <img src="assets/svg/upload/service-icon-cellcurin.png" alt="icon" class="add-animate faster" data-animated="zoomIn" data-width="64px" data-height="64px">
+                                </div>
+                                <div class="icon-info-text text-white-75 pt-3">
+                                    <h5 class="font-weight-700 text-white mb-4">Cellcurin</h5>
+                                    <p>A opção mais completa, moderna, eficaz e segura para tratamento da Alopecia Androgenética.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-3">
+                        <div class="icon-info-4 text-center mb-5 mb-lg-4">
+                            <a class="icon-info-link" href="interflexy.html">
+                                <div class="icon-element mb-3">
+                                    <img src="assets/svg/upload/service-icon-interflexy.png" alt="icon" class="add-animate faster" data-animated="zoomIn" data-width="64px" data-height="64px">
+                                </div>
+                                <div class="icon-info-text text-white-75 pt-3">
+                                    <h5 class="font-weight-700 text-white mb-4">Interflexy</h5>
+                                    <p>Microcânulas flexíveis para preenchimento que trazem mais segurança para o procedimento.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="row pb-3 mb-5">
+                    <div class="col text-center">
+                        <a href="https://api.whatsapp.com/send?phone=5547997020147" target="blank" class="btn btn-lg btn-dark mb-0"><i class="fas fa-user-check"></i>Fale com um consultor</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+
+        <!-- Benefits section -->
+        <div class="section py-5">
+            <div class="container">
+
+                <div class="row pt-3 my-5">
+                    <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+                        <div class="text-center">
+
+                            <h5 class="font-weight-400">faça parte da inovação</h5>
+
+                            <div data-height="3px"></div>
+
+                            <h2 class="h1 section-title-4 font-weight-800">
+                                a Intervalue valoriza seu negócio
+                                <div class="title-divider-round"></div>
+                            </h2>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row pb-4 pb-xl-5 mb-5">
+
+                    <div class="col-lg-6">
+
+                        <div class="d-none d-lg-block" data-height="96px"></div>
+
+                        <div class="card d-block border-0 shadow-sm text-center mb-0 add-animate" data-animated="fadeInLeft">
+                            <img class="card-img" src="assets/images/upload/streaming-benefits-01.jpg" alt="image">
+                            <div class="card-img-overlay d-flex align-items-center px-4 py-5 p-md-5">
+                                <div class="w-100 px-4">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div data-height="30px"></div>
+
+                        <div class="row mb-5 mb-lg-0">
+
+                            <div class="col-md-6">
+                                <blockquote class="blockquote-2 text-right border-right mb-md-0 add-animate" data-animated="fadeInLeft">
+                                    <p class="mb-0">Onde tem Intervalue, tem segurança e qualidade</p>
+
+                                </blockquote>
+                            </div>
+
+                            <div class="col-md-6">
+                                <img src="assets/images/upload/streaming-benefits-03.jpg" alt="image" class="w-100 rounded-lg shadow-sm add-animate" data-animated="fadeInUp">
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-6">
+
+                        <div class="row align-items-end">
+
+                            <div class="col-md-6 pb-1 pb-md-0 mb-4 mb-md-0">
+                                <img src="assets/images/upload/streaming-benefits-04.jpg" alt="image" class="w-100 rounded-lg shadow-sm add-animate" data-animated="fadeInDown">
+                            </div>
+
+                            <div class="col-md-6">
+                                <blockquote class="blockquote-2 border-left mb-0 add-animate" data-animated="fadeInRight">
+                                    <p class="mb-0">Surpreenda-se com a tecnologia</p>
+
+                                </blockquote>
+                            </div>
+
+                        </div>
+
+                        <div data-height="30px"></div>
+
+                        <img src="assets/images/upload/streaming-benefits-02.jpg" alt="image" class="w-100 rounded-lg shadow-sm add-animate" data-animated="fadeInRight">
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+
+       <!-- Testimonials section -->
+        <div class="section pt-5">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-8 offset-lg-2 col-xl-6 offset-xl-0 align-self-end order-2 order-xl-1">
+                        <div class="text-center px-md-5">
+                            <div class="px-3">
+                                <img src="assets/images/upload/testimonial-thumb-up.png" alt="image" class="img-fluid add-animate" data-animated="fadeIn">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-10 offset-lg-1 col-xl-6 offset-xl-0 align-self-center order-1 order-xl-2">
+                        <div class="pb-4 pb-md-5 mb-xl-5">
+
+                            <div class="text-center text-xl-left">
+                                <h5 class="font-weight-400 mb-3">confira o relato de quem já conta com a Intervalue</h5>
+                                <h2 class="h1 font-weight-800 mb-4">depoimentos</h2>
+                            </div>
+
+                            <div class="carousel-component mb-5 mb-xl-4" data-carousel-gutter="30" data-autoplay="true" data-dots="true" data-nav="false" data-carousel-col="1" data-carousel-col-sm="1" data-carousel-col-md="1" data-carousel-col-lg="1" data-carousel-col-xl="1">
+                                <div class="carousel-component-inner owl-carousel owl-theme">
+
+                                    <div class="carousel-component-item">
+
+                                        <div class="py-2"></div>
+
+                                        <div class="testimonial-2 my-5">
+                                            <div class="testimonial-image">
+                                                <figure>
+                                                    <img class="img-fluid" src="assets/images/upload/testimonial-dragabriela.jpg" alt="testimonial">
+                                                </figure>
+                                            </div>
+                                            <div class="testimonial-details">
+                                                <div class="font-italic">
+                                                    <p>A Intervalue trouxe diferentes soluções que valorizaram ainda mais os procedimentos da clínica. Estamos satisfeitos com o alto desempenho dos produtos e com o compromisso da empresa.</p>
+                                                </div>
+                                                <div class="tesimonial-name">
+                                                    Dra. Gabriela Dal Ri Ravache | Cirurgiã Dentista
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="py-2"></div>
+
+                                    </div>
+
+                                    <div class="carousel-component-item">
+
+                                        <div class="py-2"></div>
+
+                                        <div class="testimonial-2 my-5">
+                                            <div class="testimonial-image">
+                                                <figure>
+                                                    <img class="img-fluid" src="assets/images/upload/testimonial-vanuza.jpg" alt="testimonial">
+                                                </figure>
+                                            </div>
+                                            <div class="testimonial-details">
+                                                <div class="font-italic">
+                                                    <p>Interflexy são microcânulas super resistentes. E essa resistência me chamou a atenção durante o procedimento.</p>
+                                                </div>
+                                                <div class="tesimonial-name">
+                                                    Vanuza Kohut | Biomédica Esteta
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="py-2"></div>
+
+                                    </div>
+
+                                    <div class="carousel-component-item">
+
+                                        <div class="py-2"></div>
+
+                                        <div class="testimonial-2 my-5">
+                                            <div class="testimonial-image">
+                                                <figure>
+                                                    <img class="img-fluid" src="assets/images/upload/testimonial-guilherme.jpg" alt="testimonial">
+                                                </figure>
+                                            </div>
+                                            <div class="testimonial-details">
+                                                <div class="font-italic">
+                                                    <p>Produto excelente e com bons resultados. Uso o RMDA-S e meus trabalhos estão cada vez melhores! Parabéns!!!</p>
+                                                </div>
+                                                <div class="tesimonial-name">
+                                                    Guilherme Melo | Especialista em Restauração Dérmica
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="py-2"></div>
+
+                                    </div>
+
+ <div class="carousel-component-item">
+
+                                        <div class="py-2"></div>
+
+                                        <div class="testimonial-2 my-5">
+                                            <div class="testimonial-image">
+                                                <figure>
+                                                    <img class="img-fluid" src="assets/images/upload/testimonial-gustavo.jpg" alt="testimonial">
+                                                </figure>
+                                            </div>
+                                            <div class="testimonial-details">
+                                                <div class="font-italic">
+                                                    <p>TROIPEEL é sem dúvida um tratamento muito efetivo e seguro de resurfacing da pele. Resultados surpreendentes!</p>
+                                                </div>
+                                                <div class="tesimonial-name">
+                                                    Gustavo Lessing | Biomédico
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="py-2"></div>
+
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-indigo">
+
+
+
+
+
+      <!-- MAPA section -->
+        <div class="section py-5">
+            <div class="container">
+
+                <div class="row pt-3 my-5">
+                    <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+                        <div class="text-center">
+
+                            <h5 class="font-weight-400">onde há inovação, estamos presentes</h5>
+
+                            <div data-height="3px"></div>
+
+                            <h2 class="h1 section-title-4 font-weight-800">
+                               onde encontrar a Intervalue
+                                <div class="title-divider-round"></div>
+                            </h2>
+
+                        </div>
+
+                    </div>
+
+
+
+            </div>
+        </div>
+
+
+
+
+
+        <!-- Map section -->
+        <div class="section">
+            <div class="container-fluid px-0">
+                <div class="row map-wrapper no-gutters align-items-center">
+
+                    <div class="col-12 map-container">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3557.7830429924456!2d-48.662657084955086!3d-26.91037978312859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8cc7499efffff%3A0x7af772fad0fba6d0!2sAv.%20Cel.%20Marcos%20Konder%2C%201024%20-%20Sala%2021%20-%20Centro%2C%20Itaja%C3%AD%20-%20SC%2C%2088301-302!5e0!3m2!1spt-BR!2sbr!4v1621395457696!5m2!1spt-BR!2sbr" width=100% height="540" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+                    </div>
+
+                    <div class="col-12 bg-primary">
+                        <div class="container">
+                            <div class="row no-gutters">
+                                <div class="col-lg-4 offset-lg-8 col-xl-3 offset-xl-9">
+                                    <div class="map-info-box bg-primary text-white-75 px-3 py-4 p-lg-4">
+                                        <div class="py-2 p-lg-2">
+
+                                            <h5 class="text-white font-weight-700 mb-3">Nosso escritório</h5>
+                                            <div class="divider-1 divider-light-2"></div>
+
+                                            <div class="row contact-info-list mb-2">
+                                                <div class="col contact-info-item">
+                                                    <div class="icon-info-1">
+                                                        <div class="icon-element text-white pt-1" data-width="30px">
+                                                            <i class="fas fa-map-marker-alt fa-lg"></i>
+                                                        </div>
+                                                        <div class="icon-info-text pl-2">
+                                                            <div class="pb-2">
+                                                                <p>Av. Coronel Marcos Konder, 1024, Sala 21, Centro. Itajaí, Santa Catarina. Brasil.</p>
+                                                            </div>
+                                                            <a href="https://www.google.com.br/maps/dir//Intervalue+Comercial+S%2FA+-+Av.+Cel.+Marcos+Konder,+1024+-+Sala+21+-+Centro,+Itaja%C3%AD+-+SC,+88301-302/@-26.910375,-48.6626571,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x94d8cd6146e683cd:0x886148161b97babf!2m2!1d-48.6604222!2d-26.9103638!3e0" target="_blank" class="btn btn-sm btn-round btn-secondary btn-gray-shadow d-inline-block mb-0 text-decoration-none">Traçar rota</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+           </div>
+        </div>
+        </div>
+
+
+
+
+
+        <!-- News and events section -->
+        <div class="section py-5">
+            <div class="container">
+
+                <div class="row pt-3 my-5">
+                    <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+                        <div class="text-center">
+
+                            <h5 class="font-weight-400">novidades & acontecimentos</h5>
+
+                            <div data-height="3px"></div>
+
+                            <h2 class="h1 section-title-4 font-weight-800">
+                                fique por dentro
+                                <div class="title-divider-round"></div>
+                            </h2>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mb-5">
+                    <div class="col">
+                        <div class="px-3">
+
+                            <!-- Blog carousel -->
+                            <div class="carousel-component" data-carousel-gutter="30" data-autoplay="true" data-dots="true" data-nav="true" data-carousel-col="1" data-carousel-col-sm="1" data-carousel-col-md="2" data-carousel-col-lg="3" data-carousel-col-xl="3">
+                                <div class="carousel-component-inner owl-carousel owl-theme">
+
+                                    <!-- Blog carousel item -->
+                                    <div class="carousel-component-item">
+                                        <div class="card card-blog-entry border-0 plain-card mb-0">
+                                            <div class="card-blog-img hover-item hover-scale hover-uncaption">
+                                                <div class="hover-transition">
+                                                    <div class="hover-down">
+                                                        <a href="blog01.html" role="button" class="btn btn-round btn-lg btn-icon-only btn-outline-light mb-0">
+                                                            <i class="fas fa-eye"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <figure>
+                                                    <img class="img-fluid" src="assets/images/upload/blog-thumbnail-29.jpg" alt="Blog">
+                                                </figure>
+                                            </div>
+                                            <div class="card-body pt-0">
+                                                <div class="category-btn">
+                                                    <a href="blog01.html" class="btn btn-round btn-sm btn-primary">Novidade</a>
+                                                </div>
+                                                <h5 class="font-weight-700 mt-3">
+                                                    <a href="blog01.html" class="text-dark-gray">Nova identidade Intervalue</a>
+                                                </h5>
+                                                <ul class="meta-entry">
+                                                    <li class="meta-entry-item">
+                                                        <a href="blog01.html">10 Mar 2021</a>
+                                                    </li>
+                                                    <li class="meta-entry-item">
+                                                        <a href="blog01.html">Rafael F</a>
+                                                    </li>
+                                                </ul>
+                                                <p class="card-text">A Intervalue está de cara nova! Conheça nossa nova identidade visual.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Blog carousel item -->
+                                    <div class="carousel-component-item">
+                                        <div class="card card-blog-entry border-0 plain-card mb-0">
+                                            <div class="card-blog-img hover-item hover-scale hover-uncaption">
+                                                <div class="hover-transition">
+                                                    <div class="hover-down">
+                                                        <a href="blog02.html" role="button" class="btn btn-round btn-lg btn-icon-only btn-outline-light mb-0">
+                                                            <i class="fas fa-eye"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <figure>
+                                                    <img class="img-fluid" src="assets/images/upload/blog-thumbnail-30.jpg" alt="Blog">
+                                                </figure>
+                                            </div>
+                                            <div class="card-body pt-0">
+                                                <div class="category-btn">
+                                                    <a href="blog02.html" class="btn btn-round btn-sm btn-success">Aconteceu</a>
+                                                </div>
+                                                <h5 class="font-weight-700 mt-3">
+                                                    <a href="blog02.html" class="text-dark-gray">Um click na inovação</a>
+                                                </h5>
+                                                <ul class="meta-entry">
+                                                    <li class="meta-entry-item">
+                                                        <a href="blog02.html">05 Mai 2021</a>
+                                                    </li>
+                                                    <li class="meta-entry-item">
+                                                        <a href="blog02.html">Pâmela</a>
+                                                    </li>
+                                                </ul>
+                                                <p class="card-text">Realizamos uma grande produção de fotos para apresentar nossos produtos e novidades.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Blog carousel item -->
+                                    <div class="carousel-component-item">
+                                        <div class="card card-blog-entry border-0 plain-card mb-0">
+                                            <div class="card-blog-img hover-item hover-scale hover-uncaption">
+                                                <div class="hover-transition">
+                                                    <div class="hover-down">
+                                                        <a href="blog03.html" role="button" class="btn btn-round btn-lg btn-icon-only btn-outline-light mb-0">
+                                                            <i class="fas fa-eye"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <figure>
+                                                    <img class="img-fluid" src="assets/images/upload/blog-thumbnail-31.jpg" alt="Blog">
+                                                </figure>
+                                            </div>
+                                            <div class="card-body pt-0">
+                                                <div class="category-btn">
+                                                    <a href="blog03.html" class="btn btn-round btn-sm btn-primary">Novidade</a>
+                                                </div>
+                                                <h5 class="font-weight-700 mt-3">
+                                                    <a href="blog03.html" class="text-dark-gray">Novo website no ar</a>
+                                                </h5>
+                                                <ul class="meta-entry">
+                                                    <li class="meta-entry-item">
+                                                        <a href="blog03.html">21 Mai 2021</a>
+                                                    </li>
+                                                    <li class="meta-entry-item">
+                                                        <a href="blog03.html">Marlon</a>
+                                                    </li>
+                                                </ul>
+                                                <p class="card-text">Nosso novo website está no ar, com muita informação, conteúdo e novidades!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <!-- Blog carousel item -->
+                                    <div class="carousel-component-item">
+                                        <div class="card card-blog-entry border-0 plain-card mb-0">
+                                            <div class="card-blog-img hover-item hover-scale hover-uncaption">
+                                                <div class="hover-transition">
+                                                    <div class="hover-down">
+                                                        <a href="blog04.html" role="button" class="btn btn-round btn-lg btn-icon-only btn-outline-light mb-0">
+                                                            <i class="fas fa-eye"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <figure>
+                                                    <img class="img-fluid" src="assets/images/upload/blog-thumbnail-33.jpg" alt="Blog">
+                                                </figure>
+                                            </div>
+                                            <div class="card-body pt-0">
+                                                <div class="category-btn">
+                                                    <a href="blog04.html" class="btn btn-round btn-sm btn-primary">Notícia</a>
+                                                </div>
+                                                <h5 class="font-weight-700 mt-3">
+                                                    <a href="blog04.html" class="text-dark-gray">Interflexy em crescimento</a>
+                                                </h5>
+                                                <ul class="meta-entry">
+                                                    <li class="meta-entry-item">
+                                                        <a href="blog04.html">27 Mai 2021</a>
+                                                    </li>
+                                                    <li class="meta-entry-item">
+                                                        <a href="blog04.html">Pamela</a>
+                                                    </li>
+                                                </ul>
+                                                <p class="card-text">Com muitos feedbacks positivos, as microcânulas Interflexy são um grande sucesso!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+     <!-- Brands section -->
+        <div class="section bg-viridian-300 py-4">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-4 col-md-4 col-lg-2">
+                        <div class="text-center px-2">
+                            <img class="img-fluid" src="assets/svg/upload/brands-section-rmdas.png" alt="brand">
+                        </div>
+                    </div>
+                    <div class="col-4 col-md-3 col-lg-2">
+                        <div class="text-center px-2">
+                            <img class="img-fluid" src="assets/svg/upload/brands-section-troipeel.png" alt="brand">
+                        </div>
+                    </div>
+                    <div class="col-4 col-md-3 col-lg-3">
+                        <div class="text-center px-2">
+                            <img class="img-fluid" src="assets/svg/upload/brands-section-cellcurin.png" alt="brand">
+                        </div>
+                    </div>
+                    <div class="col-4 col-md-3 col-lg-3">
+                        <div class="text-center px-2">
+                            <img class="img-fluid" src="assets/svg/upload/brands-section-interflexy.png" alt="brand">
+                        </div>
+                    </div>
+
+                    <div class="col-4 col-md-3 col-lg-2">
+                        <div class="text-center px-2">
+                            <img class="img-fluid" src="assets/svg/upload/brands-section-intervalue.png" alt="brand">
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <!-- Footer -->
+    <div class="bg-viridian-500 text-white-50">
+
+        <div class="py-5">
+            <div class="container">
+                <div class="row py-5">
+
+                    <div class="col-lg-3 mb-5 mb-lg-0">
+
+                        <div class="widget">
+
+                            <h6 class="widget-title text-white text-uppercase font-weight-700">Intervalue®</h6>
+                            <div data-height="5px"></div>
+
+                            <p>Prezamos pela inovação e trabalhamos com compromisso irrestrito com a qualidade, ética e parceria.</p>
+                            <p>Intervalue Comercial S.A.</p>
+                            <p>CNPJ: 34.387.230/0001-77</p>
+                            <p>I.E: 26.017.801-2</p></p>
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 mb-5 mb-lg-0">
+                        <div class="widget">
+
+                            <h6 class="widget-title text-white text-uppercase font-weight-700">Contato</h6>
+
+                            <ul class="custom-list fa-ul mb-0 ml-4">
+                                <li class="mb-3">
+                                    <span class="fa-li"><i class="fas fa-map-marker-alt text-primary"></i></span>
+                    Av. Coronel Marcos Konder, 1024, Sala 21, Centro. Itajaí, Santa Catarina. Brasil. CEP 88301-302.
+                                </li>
+                                <li class="mb-3">
+                                    <span class="fa-li"><i class="fas fa-phone-alt text-primary"></i></span>
+                                    47 3083 8884
+                                </li>
+                                <li class="mb-3">
+                                    <span class="fa-li"><i class="fas fa-mobile-alt text-primary"></i></span>
+                                    47 9 9702 0147
+                                </li>
+                                <li>
+                                    <span class="fa-li"><i class="fas fa-envelope text-primary"></i></span>
+                                    contato@intervalue.com.br
+                                </li>
+                                <li>
+                                    <span class="fa-li"><i class="fas fa-headset text-primary"></i></span>
+                                    sac@intervalue.com.br
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 mb-5 mb-lg-0">
+                        <div class="widget">
+
+                            <h6 class="widget-title text-white text-uppercase font-weight-700">Tags</h6>
+
+                            <div>
+                                <a href="quemsomos.html" class="btn btn-round btn-sm btn-outline-primary mr-1 mb-2">intervalue</a>
+                                <a href="quemsomos.html" class="btn btn-round btn-sm btn-outline-primary mr-1 mb-2">inovação</a>
+                                <a href="produtos.html" class="btn btn-round btn-sm btn-outline-primary mr-1 mb-2">tecnologia</a>
+                                <a href="produtos.html" class="btn btn-round btn-sm btn-outline-primary mr-1 mb-2">saúde</a>
+                                <a href="produtos.html" class="btn btn-round btn-sm btn-outline-primary mr-1 mb-2">estética</a>
+                                <a href="produtos.html" class="btn btn-round btn-sm btn-outline-primary mr-1 mb-2">bem-estar</a>
+                                <a href="produtos.html" class="btn btn-round btn-sm btn-outline-primary mr-1 mb-2">beleza</a>
+                                <a href="produtos.html" class="btn btn-round btn-sm btn-outline-primary mr-1 mb-2">procedimento</a>
+                                <a href="rmdas.html" class="btn btn-round btn-sm btn-outline-primary mr-1 mb-2">dna</a>
+                                <a href="interflexy.html" class="btn btn-round btn-sm btn-outline-primary mr-1 mb-2">microcânula</a>
+                            </div>
+
+                        </div>
+                    </div>
+
+   <div class="widget">
+
+                            <h6 class="widget-title text-white text-uppercase font-weight-700 mb-4">Mídias Sociais</h6>
+
+                            <div class="d-flex ml-n2">
+                                <a href="https://www.facebook.com/Intervalue-101533888619721" target="_blank" class="d-flex align-items-center justify-content-center text-white-25 text-hover-primary" data-width="36px" data-height="36px"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/intervalue_br/" target="_blank" class="d-flex align-items-center justify-content-center text-white-25 text-hover-primary" data-width="36px" data-height="36px"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/company/intervaluebr/" target="_blank" class="d-flex align-items-center justify-content-center text-white-25 text-hover-primary" data-width="36px" data-height="36px"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://www.youtube.com/channel/UCvx_nLiNlLklNbvxQ8vVQuA" target="_blank" class="d-flex align-items-center justify-content-center text-white-25 text-hover-primary" data-width="36px" data-height="36px"><i class="fab fa-youtube"></i></a>
+                            </div>
+
+                        </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-bottom py-4">
+            <div class="container footer-bottom-container">
+                <div class="row py-3">
+
+                    <div class="col-lg-8 text-center text-lg-left mb-2 mb-lg-0">
+                        <small>Copyright @ <a href="#">intervalue.com.br</a>. Todos os direitos reservados. Todas as imagens deste website possuem direitos autorais. Não é permitida o uso de nenhuma imagem ou informação disponíveis sem expressa autorização da Intervalue. Desenvolvimento <a href="http://www.dinamicpp.com.br" target="blank">dinamicpp.com.br</a>.</small>
+                    </div>
+
+                    <div class="col-lg-6 text-center text-lg-right">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+    <!-- Go to top -->
+    <div class="go-to-top">
+        <a href="https://api.whatsapp.com/send?phone=5547997020147" target="blank"><i class="fab fa-whatsapp"></i></a>
+    </div>
+
+    <!-- jQuery -->
+    <script src="assets/js/vendor/jquery-3.5.1.min.js"></script>
+
+    <!-- Bootstrap js -->
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Navik Menu js -->
+    <script src="components/navik-navigation-menu/dist/js/navik.menu.js"></script>
+
+    <!-- Isotope and imagesloaded js -->
+    <script src="node_modules/isotope-layout/dist/isotope.pkgd.min.js"></script>
+    <script src="node_modules/imagesloaded/imagesloaded.pkgd.min.js"></script>
+
+    <!-- Fancybox js -->
+    <script src="node_modules/@fancyapps/fancybox/dist/jquery.fancybox.min.js"></script>
+
+    <!-- OWL carousel js -->
+    <script src="node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
+
+    <!-- Progress Circle js -->
+    <script src="node_modules/jquery-circle-progress/dist/circle-progress.min.js"></script>
+
+    <!-- Custom js -->
+    <script src="assets/js/custom.js"></script>
+
+    <script>
+        $(function () {
+
+            $('.tooltip-btn').tooltip()
+
+            $('.tooltip-btn-light').tooltip({
+                template: '<div class="tooltip tooltip-light" role="tooltip"><div class="arrow"></div><div class="tooltip-inner"></div></div>'
+            })
+
+        })
+    </script>
+
+</body>
+</html>
